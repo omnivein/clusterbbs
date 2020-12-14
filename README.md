@@ -1,4 +1,4 @@
-# Clustering Bubble Sort Implementation 
+# Clustering Bubble Sort - Implementation 
 Bubble Sort implementation using clustering with K-Means and threading
 
 ---
