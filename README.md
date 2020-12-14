@@ -57,3 +57,7 @@ Bubble Sort implementation using clustering with K-Means and threading
  
  ![run_program](img/run_app.png)
   
+### 4. To clean run:
+ ```Shell
+ > make clean
+ ```
